@@ -1,11 +1,11 @@
 import pytest
 
-def test_first():
+def test_one():
     assert 2 == 4
 
-def test_second():
+def test_two():
     assert 2 < 4
 
-def test_third():
+def test_three():
     assert 2 > 0
     
