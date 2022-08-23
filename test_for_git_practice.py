@@ -5,3 +5,7 @@ def test_first():
 
 def test_second():
     assert 2 < 4
+
+def test_third():
+    assert 2 > 0
+    
